@@ -1,2 +1,2 @@
 # My Resume
-To view the current version, open "Calder_s_Resume.pdf" 
+To view the current version, open "Calder_Resume.pdf" 
